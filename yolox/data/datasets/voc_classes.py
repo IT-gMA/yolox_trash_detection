@@ -4,7 +4,7 @@
 
 # VOC_CLASSES = ( '__background__', # always index 0
 VOC_CLASSES = (
-    "aluminum wrap",
+    "aluminium wrap",
     "cardboard",
     "cigarette",
     "foil",
@@ -14,7 +14,7 @@ VOC_CLASSES = (
     "negative",
     "nylon bag",
     "paper",
-    "plastic"
+    "plastic",
     "plastic bottle",
     "plastic cup",
     "plastic film",
